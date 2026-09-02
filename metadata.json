@@ -1,0 +1,7 @@
+{
+  "name": "LUXORA — Luxury Fashion & Contemporary Apparel",
+  "description": "Premium full-stack fashion e-commerce platform with live catalog, dynamic filtering, real checkout, order tracking, reviews, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
